@@ -1,0 +1,107 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 1,
+                    "title": "4PDA",
+                    "url": "http://4pda.ru/forum/index.php?showtopic=584914&view=findpost&p=37584007"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 2,
+                    "title": "Google",
+                    "url": "http://google.com"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 3,
+                    "title": "Yandex",
+                    "url": "http://yandex.ru"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 4,
+                    "title": "Mail.ru",
+                    "url": "http://mail.ru"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 5,
+                    "title": "YouTube",
+                    "url": "http://youtube.com"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 6,
+                    "title": "VK",
+                    "url": "http://vk.com"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 7,
+                    "title": "Facebook",
+                    "url": "http://facebook.com"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 8,
+                    "title": "Odnoklassniki",
+                    "url": "http://odnoklassniki.ru"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 9,
+                    "title": "Twitter",
+                    "url": "http://twitter.com"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "stid": 10,
+                    "title": "MiuiPro",
+                    "url": "http://miuipro.ru"
+                }
+            }
+        ]
+    }
+}

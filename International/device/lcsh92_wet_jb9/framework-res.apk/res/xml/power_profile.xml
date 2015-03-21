@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Jiayu">
+	<item name="none">0</item>
+	<item name="screen.on">49</item>
+	<item name="screen.full">260</item>
+	<item name="bluetooth.active">142</item>
+	<item name="bluetooth.on">0.3</item>
+	<item name="bluetooth.at">35690</item>
+	<item name="wifi.on">4</item>
+	<item name="wifi.active">120</item>
+	<item name="wifi.scan">220</item>
+	<item name="dsp.audio">88</item>
+	<item name="dsp.video">88</item>
+	<item name="radio.active">185</item>
+	<item name="radio.scanning">88</item>
+	<item name="gps.on">50</item>
+	<array name="radio.on">
+		<value>0.2</value>
+		<value>0.1</value>
+	</array>
+	<array name="cpu.speeds">
+		<value>400000</value>
+	</array>
+	<item name="cpu.idle">0.1</item>
+	<array name="cpu.active">
+		<value>55.4</value>
+		<value>82.1</value>
+		<value>113.7</value>
+		<value>205.4</value>
+		<value>259.0</value>
+	</array>
+	<item name="battery.capacity">1000</item>
+	<array name="wifi.batchedscan">
+		<value>.0002</value>
+		<value>.002</value>
+		<value>.02</value>
+		<value>.2</value>
+		<value>2</value>
+	</array>
+</device>
