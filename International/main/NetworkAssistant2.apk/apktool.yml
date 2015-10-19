@@ -15,13 +15,5 @@ versionInfo:
   versionCode: '41210'
   versionName: V6_4.12.10
 sharedLibrary: false
-unknownFiles:
-  miui_push_version: '8'
-  com/xiaomi/smack/package.html: '8'
-  com/xiaomi/smack/debugger/package.html: '8'
-  com/xiaomi/smack/filter/package.html: '8'
-  com/xiaomi/smack/packet/package.html: '8'
-  com/xiaomi/smack/provider/package.html: '8'
-  com/xiaomi/smack/util/package.html: '8'
 doNotCompress:
 - resources.arsc

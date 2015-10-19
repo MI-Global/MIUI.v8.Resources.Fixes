@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextView android:textAppearance="?android:textAppearanceMediumInverse" android:textSize="@dimen/text_edit_action_popup_text_size" android:textColor="@android:color/white" android:gravity="center" android:background="@drawable/text_select_button_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"
+<TextView android:textAppearance="?android:textAppearanceMediumInverse" android:textSize="10.0sp" android:textColor="@android:color/white" android:gravity="center" android:background="@drawable/text_select_button_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"
   xmlns:android="http://schemas.android.com/apk/res/android" />
