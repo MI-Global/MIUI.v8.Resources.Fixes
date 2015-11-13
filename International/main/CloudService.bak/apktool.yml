@@ -1,0 +1,29 @@
+version: 3.0.1-BZ
+apkFileName: CloudService.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 16
+  - 18
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '19'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '19'
+  versionName: 4.4.2-5.10.8
+sharedLibrary: false
+unknownFiles:
+  com/sina/sso/RemoteSSO.aidl: '8'
+  com/sina/weibo/sdk/net/cacert.cer: '8'
+  com/tencent/mm/sdk/platformtools/rep5402863540997075488.tmp: '0'
+  com/xiaomi/smack/package.html: '8'
+  com/xiaomi/smack/debugger/package.html: '8'
+  com/xiaomi/smack/filter/package.html: '8'
+  com/xiaomi/smack/packet/package.html: '8'
+  com/xiaomi/smack/provider/package.html: '8'
+  com/xiaomi/smack/util/package.html: '8'
+doNotCompress:
+- resources.arsc
