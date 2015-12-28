@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size_large">41.0dip</dimen>
+    <dimen name="message_content_panel_min_height">42.0px</dimen>
+    <dimen name="message_body_text_font_size">40.0px</dimen>
+    <dimen name="message_edit_counter_text_font_size">11.0sp</dimen>
+    <dimen name="message_header_title_text_font_size">15.0sp</dimen>
+    <item type="dimen" name="edit_text_size">@miui:dimen/normal_text_size</item>
+</resources>
