@@ -1,0 +1,20 @@
+version: 3.0.1-BZ
+apkFileName: Contacts.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 16
+  - 18
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '23'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '100'
+  versionName: 4.4.2-6.6.23
+sharedLibrary: false
+doNotCompress:
+- resources.arsc
+- res/drawable-xhdpi/ic_contact_picture.webp
